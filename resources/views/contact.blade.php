@@ -34,7 +34,8 @@
         <h1>Contact</h1>
         <div class="row justify-content-center">
             <div class="col-md-8 text-center">
-                <p style="font-size: 17px;">We’d love to hear from you! Whether you’re looking to hire talent, collaborate, or learn more about our services, feel free to reach out. Our team is ready to assist you.</p>
+                <p style="font-size: 17px;">CONTACT US
+                    Contact us if you need to hire talent, collaborate, partner or have need of our creative solutions. Our Team is ready to assist you.</p>
             </div>
         </div>
     </div>
