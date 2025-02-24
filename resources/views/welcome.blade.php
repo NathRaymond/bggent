@@ -143,17 +143,17 @@
 
 @endsection
 <!-- Hero Section -->
-<section id="hero" class="hero section dark-background">
+<section id="hero" class="hero dark-background">
     <div id="hero-carousel" class="carousel carousel-fade" data-bs-ride="carousel" data-bs-interval="5000">
         <div class="container position-relative">
             <div class="carousel-item active">
                 <div class="carousel-container">
                     <h2 style="font-size: 16px;">Welcome to BGG ENTERTAINMENT </h2>
-                    <p>Welcome to By God's Grace Entertainment (BGG ENTERTAINMENT)—where faith, creativity,
+                    <p style="font-weight: bold !important;"><b>Welcome to By God's Grace Entertainment (BGG ENTERTAINMENT)—where faith, creativity,
                         and empowerment come together to uplift talented individuals of African descent.
                         <br> Our mission is to spread the message of Jesus Christ, bridge cultural gaps, and
                         create opportunities for young creatives through content creation, philanthropy,
-                        sports, song, and dance.
+                        sports, song, and dance.</b>
                     </p>
                     <a href="#about" class="btn-get-started">Read More</a>
                 </div>
@@ -162,7 +162,7 @@
             <div class="carousel-item">
                 <div class="carousel-container">
                     <h2>Empowering Creatives, Changing Lives</h2>
-                    <p>At BGG ENTERTAINMENT, we believe in the power of creativity to inspire change. Our platform showcases talented individuals in content creation, music, dance, and sports, providing them with the exposure and opportunities they deserve.
+                    <p  style="font-weight: bold;">At BGG ENTERTAINMENT, we believe in the power of creativity to inspire change. Our platform showcases talented individuals in content creation, music, dance, and sports, providing them with the exposure and opportunities they deserve.
 
                         💡 Join us as we uplift young creatives and entrepreneurs worldwide!</p>
                     <a href="#about" class="btn-get-started">Read More</a>
@@ -203,7 +203,7 @@
     </div>
     <div class="swiper-slide position-relative" style="margin-top: -50px;">
         <div class="col-lg-6 position-relative align-self-start" data-aos="fade-up" data-aos-delay="100">
-            <img src="assets/img/pandemic-img.png" class="img-fluid" alt="">
+            <img src="{{ asset("assets/img/pandemic-img.png") }}" class="img-fluid" alt="">
             <a href="{{ asset('assets/img/gallery/POST-PANDEMIC.mp4') }}" class="glightbox pulsating2-play-btn pulsating-play-btn">
                 <i class="fas fa-play"></i>
             </a>
