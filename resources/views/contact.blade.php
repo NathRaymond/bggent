@@ -31,10 +31,10 @@
 
 <div class="page-title dark-background">
     <div class="container position-relative">
-        <h1>Contact</h1>
+        <h1>CONTACT US</h1>
         <div class="row justify-content-center">
             <div class="col-md-8 text-center">
-                <p style="font-size: 17px;">CONTACT US
+                <p style="font-size: 17px;">
                     Contact us if you need to hire talent, collaborate, partner or have need of our creative solutions. Our Team is ready to assist you.</p>
             </div>
         </div>
