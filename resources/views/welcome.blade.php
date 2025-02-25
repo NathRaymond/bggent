@@ -149,7 +149,7 @@
             <div class="carousel-item active">
                 <div class="carousel-container">
                     <h2 class="text-center" style="white-space: nowrap; font-size: 24px;">Welcome to BGG ENTERTAINMENT</h2>
-                    <p style="font-weight: bold !important;"><b>Welcome to By God's Grace Entertainment (BGG ENTERTAINMENT)—where faith, creativity,
+                    <p style="font-weight: bold !important;"><b style="color:white">Welcome to By God's Grace Entertainment (BGG ENTERTAINMENT)—where faith, creativity,
                             and empowerment come together to uplift talented individuals of African descent.
                             <br> Our mission is to spread the message of Jesus Christ, bridge cultural gaps, and
                             create opportunities for young creatives through content creation, philanthropy,
@@ -161,8 +161,8 @@
 
             <div class="carousel-item">
                 <div class="carousel-container">
-                    <h2>Empowering Creatives, Changing Lives</h2>
-                    <p style="font-weight: bold;">At BGG ENTERTAINMENT, we believe in the power of creativity to inspire change. Our platform showcases talented individuals in content creation, music, dance, and sports, providing them with the exposure and opportunities they deserve.
+                    <h2 style="color:white">Empowering Creatives, Changing Lives</h2>
+                    <p style="font-weight: bold; color: white;">At BGG ENTERTAINMENT, we believe in the power of creativity to inspire change. Our platform showcases talented individuals in content creation, music, dance, and sports, providing them with the exposure and opportunities they deserve.
 
                         💡 Join us as we uplift young creatives and entrepreneurs worldwide!</p>
                     <a href="#about" class="btn-get-started">Read More</a>
@@ -171,8 +171,8 @@
 
             <div class="carousel-item">
                 <div class="carousel-container">
-                    <h2>Bridging Cultures, Building Communities</h2>
-                    <p>🌍 Our mission extends beyond entertainment—we bridge social and cultural gaps by providing a platform for global black creatives.
+                    <h2 style="color:white; ">Bridging Cultures, Building Communities</h2>
+                    <p style="color:white; font-weight: bold;">🌍 Our mission extends beyond entertainment—we bridge social and cultural gaps by providing a platform for global black creatives.
 
                         <br>🎶 Through music, storytelling, and entrepreneurship, we create a space where talent meets opportunity, fostering unity and growth in our community.
 
@@ -189,11 +189,8 @@
             <a class="carousel-control-next" href="#hero-carousel" role="button" data-bs-slide="next">
                 <span class="carousel-control-next-icon bi bi-chevron-right" aria-hidden="true"></span>
             </a>
-
             <ol class="carousel-indicators"></ol>
-
         </div>
-
     </div>
 </section>
 <br><br>
