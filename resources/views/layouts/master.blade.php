@@ -26,12 +26,12 @@
 
     <!-- Main CSS File -->
     <link href="{{asset("assets/css/main.css")}}" rel="stylesheet">
-<style>
-    .scroll-top:hover {
-    background-color: #007FFF;
-    color: #007FFF;
-}
-</style>
+    <style>
+        .scroll-top:hover {
+            background-color: #007FFF;
+            color: #007FFF;
+        }
+    </style>
     @yield("headlinks")
 </head>
 

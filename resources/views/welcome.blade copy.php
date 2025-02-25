@@ -147,24 +147,22 @@
     <div id="hero-carousel" class="carousel carousel-fade" data-bs-ride="carousel" data-bs-interval="5000">
         <div class="container position-relative">
             <div class="carousel-item active">
-                <div class="container-fluid carousel-container" style="margin-top: 80px;">
-                    <p class="text-center text-uppercase" style="font-size: 23px;"><b>Welcome to BGG&nbsp;ENTERTAINMENT</b></p>
-                    <p class="font-weight-bold text-white text-center" style="font-size: 15px;">
-                        Welcome to By God's Grace Entertainment (BGG ENTERTAINMENT)—where faith, creativity,
-                        and empowerment come together to uplift talented individuals of African descent.<br>
-                        Our mission is to spread the message of Jesus Christ, bridge cultural gaps, and
-                        create opportunities for young creatives through content creation, philanthropy,
-                        sports, song, and dance.
+                <div class="carousel-container">
+                    <h2 class="text-center" style="white-space: nowrap; font-size: 24px; text-transform: uppercase;">Welcome to BGG ENTERTAINMENT</h2>
+                    <p style="font-weight: bold !important;"><b style="color:white">Welcome to By God's 
+                        Grace Entertainment 
+                        (BGG ENTERTAINMENT)—where faith, creativity,
+                            and empowerment come together to uplift talented individuals of African descent.
+                            <br> Our mission is to spread the message of Jesus Christ, bridge cultural gaps, and
+                            create opportunities for young creatives through content creation, philanthropy,
+                            sports, song, and dance.</b>
                     </p>
-                    <div class="text-center">
-                        <a href="#about" class="btn btn-primary">Read More</a>
-                    </div>
+                    <a href="#about" class="btn-get-started">Read More</a>
                 </div>
-
             </div><!-- End Carousel Item -->
 
             <div class="carousel-item">
-                <div class="carousel-container" style="margin-top: 80px;">
+                <div class="carousel-container">
                     <h2 style="color:white; text-transform: uppercase;">Empowering Creatives, Changing Lives</h2>
                     <p style="font-weight: bold; color: white;">At BGG ENTERTAINMENT, we believe in the power of creativity to inspire change. Our platform showcases talented individuals in content creation, music, dance, and sports, providing them with the exposure and opportunities they deserve.
 
@@ -174,7 +172,7 @@
             </div><!-- End Carousel Item -->
 
             <div class="carousel-item">
-                <div class="carousel-container" style="margin-top: 80px;">
+                <div class="carousel-container">
                     <h2 style="color:white; text-transform: uppercase;">Bridging Cultures, Building Communities</h2>
                     <p style="color:white; font-weight: bold;">🌍 Our mission extends beyond entertainment—we bridge social and cultural gaps by providing a platform for global black creatives.
 
