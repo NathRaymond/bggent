@@ -373,7 +373,7 @@
             <div class="col-lg-4 col-md-6 col-sm-12" data-aos="fade-up" data-aos-delay="100">
                 <div class="service-item item-cyan position-relative" style="background-color: black; color:white; padding: 20px; border-radius: 10px;">
                     <div style="position: relative; display: block; text-align: center;">
-                        <a href="THE-LABYRINTH-SCHOLARSHIP.pdf" target="_blank" style="text-decoration: none;">
+                        <a href="{{ asset("assets/img/THE-LABYRINTH-SCHOLARSHIP.pdf") }}" target="_blank" style="text-decoration: none;">
                             <div style="padding: 10px; background-color: #007bff; color: white; display: inline-block; border-radius: 5px; cursor: pointer;">
                                 Open THE-LABYRINTH-SCHOLARSHIP.pdf
                             </div>
