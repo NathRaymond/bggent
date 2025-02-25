@@ -148,7 +148,7 @@
         <div class="container position-relative">
             <div class="carousel-item active">
                 <div class="carousel-container">
-                    <h2 class="text-center" style="white-space: nowrap; font-size: 24px;">Welcome to BGG ENTERTAINMENT</h2>
+                    <h2 class="text-center" style="white-space: nowrap; font-size: 24px; text-transform: uppercase;">Welcome to BGG ENTERTAINMENT</h2>
                     <p style="font-weight: bold !important;"><b style="color:white">Welcome to By God's Grace Entertainment (BGG ENTERTAINMENT)—where faith, creativity,
                             and empowerment come together to uplift talented individuals of African descent.
                             <br> Our mission is to spread the message of Jesus Christ, bridge cultural gaps, and
@@ -161,7 +161,7 @@
 
             <div class="carousel-item">
                 <div class="carousel-container">
-                    <h2 style="color:white">Empowering Creatives, Changing Lives</h2>
+                    <h2 style="color:white; text-transform: uppercase;">Empowering Creatives, Changing Lives</h2>
                     <p style="font-weight: bold; color: white;">At BGG ENTERTAINMENT, we believe in the power of creativity to inspire change. Our platform showcases talented individuals in content creation, music, dance, and sports, providing them with the exposure and opportunities they deserve.
 
                         💡 Join us as we uplift young creatives and entrepreneurs worldwide!</p>
@@ -171,7 +171,7 @@
 
             <div class="carousel-item">
                 <div class="carousel-container">
-                    <h2 style="color:white; ">Bridging Cultures, Building Communities</h2>
+                    <h2 style="color:white; text-transform: uppercase;">Bridging Cultures, Building Communities</h2>
                     <p style="color:white; font-weight: bold;">🌍 Our mission extends beyond entertainment—we bridge social and cultural gaps by providing a platform for global black creatives.
 
                         <br>🎶 Through music, storytelling, and entrepreneurship, we create a space where talent meets opportunity, fostering unity and growth in our community.
@@ -196,7 +196,7 @@
 <br><br>
 <div class="container" data-aos="fade-up" data-aos-delay="100" style="padding: 10px;">
     <div class="container section-title" data-aos="fade-up">
-        <h2 style="font-size: 20px;">INTERVIEW WITH ARISE TV </h2>
+        <h2 style="font-size: 20px; color: black;">INTERVIEW WITH ARISE TV </h2>
     </div>
     <div class="swiper-slide position-relative" style="margin-top: -50px;">
         <div class="col-lg-6 position-relative align-self-start" data-aos="fade-up" data-aos-delay="100">
@@ -209,7 +209,7 @@
 </div>
 <div class="sponsor-section">
     <div class="container section-title" data-aos="fade-up">
-        <h2 style="font-size: 20px;">Our Supporters</h2>
+        <h2 style="font-size: 20px; color: black;">Our Supporters</h2>
     </div>
     <div class="sponsor-logos" style="margin-top: -50px;">
         <img src="{{ asset('assets/img/gallery/sponsor1.jpg') }}" alt="Sponsor 1">
@@ -224,7 +224,7 @@
 
 <section id="featured-services" class="featured-services section">
     <div class="container section-title" data-aos="fade-up">
-        <h2 style="font-size: 20px;">Features</h2>
+        <h2 style="font-size: 20px; color: black;">Features</h2>
     </div>
     <div class="container" style="margin-top: -50px;">
         <div class="row gy-4">
@@ -235,9 +235,9 @@
                         <i class="bi bi-activity"></i>
                     </div>
                     <a href="#" class="stretched-link">
-                        <h3>Empowering Talent</h3>
+                        <h3 style="color: black;">Empowering Talent</h3>
                     </a>
-                    <p>
+                    <p style="color: black;">
                         We provide a platform for creatives in music, dance, sports, and content creation to showcase their gifts and gain global recognition.</p>
                 </div>
             </div>
@@ -248,9 +248,9 @@
                         <i class="bi bi-broadcast"></i>
                     </div>
                     <a href="#" class="stretched-link">
-                        <h3>Scholarship Opportunities</h3>
+                        <h3 style="color: black;">Scholarship Opportunities</h3>
                     </a>
-                    <p>
+                    <p style="color: black;">
                         The Labyrinth Scholarship supports talented individuals with tuition assistance—helping them achieve their educational dreams.</p>
                 </div>
             </div>
@@ -261,9 +261,9 @@
                         <i class="bi bi-easel"></i>
                     </div>
                     <a href="#" class="stretched-link">
-                        <h3>Bridging Cultures</h3>
+                        <h3 style="color: black;">Bridging Cultures</h3>
                     </a>
-                    <p>
+                    <p style="color: black;">
                         We connect and uplift the global black community through storytelling, entertainment, and entrepreneurship.</p>
                 </div>
             </div>
@@ -274,9 +274,9 @@
                         <i class="bi bi-bounding-box-circles"></i>
                     </div>
                     <a href="#" class="stretched-link">
-                        <h3>Faith & Purpose</h3>
+                        <h3 style="color: black;">Faith & Purpose</h3>
                     </a>
-                    <p>
+                    <p style="color: black;">
                         Our mission is rooted in sharing the message of Jesus Christ while fostering creativity and social impact.</p>
                     <a href="#" class="stretched-link"></a>
                 </div>
@@ -288,7 +288,7 @@
 </section>
 <section id="about" class="about section light-background">
     <div class="container section-title" data-aos="fade-up">
-        <h2 style="font-size: 20px;">Talent Empowerment</h2>
+        <h2 style="font-size: 20px; color: black;">Talent Empowerment</h2>
     </div>
     <div class="container" style="margin-top: -60px;">
         <div class="row gy-4">
@@ -296,17 +296,17 @@
                 <img src="{{asset(path: "assets/img/pictures/img8.jpg")}}" class="img-fluid" alt="">
             </div>
             <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="200">
-                <h3 style="text-align: center; font-size: 20px;">Empowering Talent, Uplifting Communities, Bridging Cultures</h3>
-                <p style="text-align: justify;">
+                <h3 style="text-align: center; font-size: 20px; color: black;">Empowering Talent, Uplifting Communities, Bridging Cultures</h3>
+                <p style="text-align: justify; color: black;">
                     At BGG ENTERTAINMENT, we believe in using media, arts, and entertainment to
                     inspire change. Through innovative storytelling, dynamic performances,
                     and meaningful philanthropy, we shine a light on talents that deserve global recognition.
                 </p>
                 <ul>
-                    <li><i class="bi bi-check2-all"></i> <span>Showcase creatives through entertainment events.</span></li>
-                    <li><i class="bi bi-check2-all"></i> <span>Provide scholarships to talented individuals</span></li>
-                    <li><i class="bi bi-check2-all"></i> <span>Offer mentorship & growth opportunities</span></li>
-                    <li><i class="bi bi-check2-all"></i> <span>Support entrepreneurs in the global black community</span></li>
+                    <li><i class="bi bi-check2-all"></i> <span style="color: black;">Showcase creatives through entertainment events.</span></li>
+                    <li><i class="bi bi-check2-all"></i> <span style="color: black;">Provide scholarships to talented individuals</span></li>
+                    <li><i class="bi bi-check2-all"></i> <span style="color: black;">Offer mentorship & growth opportunities</span></li>
+                    <li><i class="bi bi-check2-all"></i> <span style="color: black;">Support entrepreneurs in the global black community</span></li>
                 </ul>
             </div>
         </div>
@@ -319,19 +319,19 @@
     <div class="container">
         <div class="row gy-4">
             <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="200">
-                <h3 style="text-align: center; font-size: 20px;">OUR VISION</h3>
-                <p style="text-align: justify;">
+                <h3 style="text-align: center; font-size: 20px; color: black;">OUR VISION</h3>
+                <p style="text-align: justify; color: black;">
                     Our vision is to become a globally recognized platform that unites and empowers diverse communities through faith, creativity, and social impact. We aspire to:
                 </p>
                 <p>
                 <div class="bulletin">
-                    <p>&#8226; Foster a deeper understanding of God’s Word worldwide.</p>
-                    <p>&#8226; Highlight and promote the talents of underrepresented communities.</p>
-                    <p>&#8226; Create opportunities for economic and social advancement.</p>
-                    <p>&#8226; Inspire the next generation of leaders and changemakers.</p>
+                    <p style="color: black;">&#8226; Foster a deeper understanding of God’s Word worldwide.</p>
+                    <p style="color: black;">&#8226; Highlight and promote the talents of underrepresented communities.</p>
+                    <p style="color: black;">&#8226; Create opportunities for economic and social advancement.</p>
+                    <p style="color: black;">&#8226; Inspire the next generation of leaders and changemakers.</p>
                 </div>
                 </p>
-                <p style="font-size: 14.5px;">
+                <p style="font-size: 14.5px; color: black;">
                     To be a platform where creativity meets purpose, giving voices to untold stories and providing life-changing opportunities for young talents worldwide.
                     <br> We envision a world where creativity, faith, and unity drive meaningful change.
                 </p>
@@ -350,7 +350,7 @@
 </section>
 <section id="featured-services" class="featured-services section">
     <div class="container section-title" data-aos="fade-up" style="margin-top: -30px;">
-        <h2 style="font-size: 20px; text-align: center;">Scholarship Information</h2>
+        <h2 style="font-size: 20px; text-align: center; color: black;">Scholarship Information</h2>
     </div>
     <div class="container">
         <div class="row gy-4" style="margin-top: -40px;">
@@ -412,7 +412,8 @@
                 <img src="{{ asset('assets/img/gallery/gallery11.jpg') }}" alt="Image 1" style="width: 30%; height: auto; object-fit: cover;">
                 <img src="{{ asset('assets/img/gallery/gallery8_new.jpg') }}" alt="Image 2" style="width: 30%; height: auto; object-fit: cover;">
                 <img src="{{ asset('assets/img/gallery/gallery1.jpg') }}" alt="Image 3" style="width: 30%; height: auto; object-fit: cover;">
-                <img src="{{ asset('assets/img/gallery/gallery3.jpg') }}" alt="Image 4" style="width: 30%; height: auto; object-fit: cover;">
+                <img src="{{ asset('assets/img/gallery/gallery12.jpg') }}" alt="Image 4" style="width: 30%; height: auto; object-fit: cover;">
+                <img src="{{ asset('assets/img/gallery/img15.avif') }}" alt="Image 4" style="width: 30%; height: auto; object-fit: cover;">
                 <img src="{{ asset('assets/img/gallery/gallery2.jpg') }}" alt="Image 5" style="width: 30%; height: auto; object-fit: cover;">
             </section>
             <div class="swiper-container">

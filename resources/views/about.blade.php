@@ -48,29 +48,29 @@
                 <!-- <a href="" class="pulsating-play-btn"></a> -->
             </div>
             <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="200">
-                <h3 style="text-align: center; font-size: 15px;">VERITAS . BONAVENTURE . SANDOVAL</h3>
-                <p style="text-align: justify;">
+                <h3 style="text-align: center; font-size: 15px; color: black;">VERITAS . BONAVENTURE . SANDOVAL</h3>
+                <p style="text-align: justify; color: black;">
                     By God’s Grace Entertainment (BGG ENTERTAINMENT) is more than just an
                     entertainment platform – it’s a movement. Founded by a visionary Nigerian-American
                     entrepreneur and private banker turned entertainer and entrepreneur,
                     BGG ENTERTAINMENT is driven by a mission rooted in faith, creativity,
                     and social impact.</p>
-                <p style="text-align: justify;">
+                <p style="text-align: justify; color: black;">
                     Our goal is to empower and uplift individuals of African descent
                     and other marginalized communities by spreading the message of Jesus Christ and
                     showcasing diverse talents and stories. Through entertainment and community
                     engagement, we aim to bridge cultural gaps and foster unity.
                 </p>
                 <ul>
-                    <b> We use various creative and impactful tools to achieve our mission, including:</b>
-                    <li><i class="bi bi-check2-all"></i> <span> <b>Content Creation:</b> Telling authentic stories and highlighting unique perspectives often overlooked within social demographics.
-                        </span></li>
-                    <li><i class="bi bi-check2-all"></i> <span> <b>Philanthropy:</b> Supporting communities through charitable initiatives and educational opportunities.
-                        </span></li>
-                    <li><i class="bi bi-check2-all"></i> <span> <b>Music & Dance:</b> Celebrating cultural expression and creativity through performance arts.
-                        </span></li>
-                    <li><i class="bi bi-check2-all"></i> <span> <b>Sports:</b> Encouraging unity, discipline, and talent development through athletics.
-                        </span></li>
+                    <b style="color: black;"> We use various creative and impactful tools to achieve our mission, including:</bs>
+                        <li><i class="bi bi-check2-all"></i> <span> <b style="color: black;">Content Creation:</b> Telling authentic stories and highlighting unique perspectives often overlooked within social demographics.
+                            </span></li>
+                        <li><i class="bi bi-check2-all"></i> <span> <b style="color: black;">Philanthropy:</b> Supporting communities through charitable initiatives and educational opportunities.
+                            </span></li>
+                        <li><i class="bi bi-check2-all"></i> <span> <b style="color: black;">Music & Dance:</b> Celebrating cultural expression and creativity through performance arts.
+                            </span></li>
+                        <li><i class="bi bi-check2-all"></i> <span> <b style="color: black;">Sports:</b> Encouraging unity, discipline, and talent development through athletics.
+                            </span></li>
                 </ul>
             </div>
         </div>
@@ -81,19 +81,19 @@
 
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
-        <h2 style="font-size: 20px; margin-top:-20px">OUR VISION</h2>
+        <h2 style="font-size: 20px; margin-top:-20px;color: black;">OUR VISION</h2>
     </div>
     <div class="container">
         <div class="row gy-4 align-items-center features-item">
             <div class="col-md-7" data-aos="fade-up">
-                <h3 style="font-size: 17px; margin-top:-50px; text-align: justify;">To be a platform where creativity meets purpose, giving voices to untold stories and providing life-changing opportunities for young talents worldwide.</h3>
-                <p style="text-align: justify;">Our vision extends beyond entertainment — it’s about making a lasting impact worldwide.
+                <h3 style="font-size: 17px; margin-top:-50px; text-align: justify; color:black; line-height: 30px; font-weight:bold">To be a platform where creativity meets purpose, giving voices to untold stories and providing life-changing opportunities for young talents worldwide.</h3>
+                <p style="text-align: justify; color: black; line-height: 30px;">Our vision extends beyond entertainment — it’s about making a lasting impact worldwide.
                     Through our dedication to faith and community, BGG ENTERTAINMENT strives to bring
                     understanding to the mind of God through His Word and provide a platform for talented
                     individuals from African, African-American, Latin-American, Asian-American, Caribbean,
                     South American, and Asian backgrounds.</p>
                 <ul>
-                    <li> <span style="text-align: justify;">Be part of our mission! Register, follow us on social media, and take the next step in your creative or entrepreneurial journey.</span></li>
+                    <li> <span style="text-align: justify; color:black">Be part of our mission! Register, follow us on social media, and take the next step in your creative or entrepreneurial journey.</span></li>
                 </ul>
             </div>
             <div class="col-md-5 d-flex align-items-center" data-aos="zoom-out">

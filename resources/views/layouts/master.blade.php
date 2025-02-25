@@ -26,13 +26,19 @@
 
     <!-- Main CSS File -->
     <link href="{{asset("assets/css/main.css")}}" rel="stylesheet">
+<style>
+    .scroll-top:hover {
+    background-color: #007FFF;
+    color: #007FFF;
+}
+</style>
     @yield("headlinks")
 </head>
 
 <body class="index-page">
 
     <header id="header" class="header d-flex align-items-center fixed-top">
-       @include("layouts.header")
+        @include("layouts.header")
     </header>
 
     <main class="main">
@@ -42,7 +48,7 @@
 
     <footer id="footer" class="footer dark-background">
 
-      @include("layouts.footer")
+        @include("layouts.footer")
     </footer>
 
     <!-- Scroll Top -->
