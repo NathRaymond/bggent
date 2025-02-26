@@ -148,7 +148,7 @@
         <div class="container position-relative">
             <div class="carousel-item active">
                 <div class="container-fluid carousel-container" style="margin-top: 80px;">
-                    <p class="text-center text-uppercase" style="font-size: 28px;"><b>Welcome to BGG&nbsp;ENTERTAINMENT</b></p>
+                    <h2 class="text-center text-uppercase" style="font-size: 28px;">Welcome to BGG&nbsp;ENTERTAINMENT</h2>
                     <p class="font-weight-bold text-white text-center">
                        <b> Welcome to By God's Grace Entertainment (BGG ENTERTAINMENT)—where faith, creativity,
                         and empowerment come together to uplift talented individuals of African descent.<br>

@@ -4,7 +4,7 @@
 @section("headlinks")
 <style>
     .page-title {
-        background: url('assets/img/home-img.jpg') no-repeat center center/cover;
+        background: url('assets/img/contact-img.jpg') no-repeat center center/cover;
         color: #fff;
         padding: 100px 0;
     }
