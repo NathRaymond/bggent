@@ -340,15 +340,17 @@
                     <br> We envision a world where creativity, faith, and unity drive meaningful change.
                 </p>
             </div>
-            <div class="col-lg-6 position-relative align-self-start" data-aos="fade-up" data-aos-delay="100">
-                <iframe width="560" height="315"
-                    src="https://www.youtube.com/embed/6nlf1KaaqxI"
-                    title="YouTube video player"
-                    frameborder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                    allowfullscreen>
-                </iframe>
-            </div>
+            <div class="col-lg-6 position-relative align-self-start" data-aos="fade-up" data-aos-delay="100" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <iframe 
+        src="https://www.youtube.com/embed/6nlf1KaaqxI"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    </iframe>
+</div>
+
         </div>
     </div>
 </section>
