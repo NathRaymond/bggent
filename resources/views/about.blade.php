@@ -51,8 +51,7 @@
                 <h3 style="text-align: center; font-size: 15px; color: black;">VERITAS . BONAVENTURE . SANDOVAL</h3>
                 <p style="text-align: justify; color: black;">
                     By God’s Grace Entertainment (BGG ENTERTAINMENT) is more than just an
-                    entertainment platform – it’s a movement. Founded by a visionary Nigerian-American
-                    entrepreneur and private banker turned entertainer and entrepreneur,
+                    entertainment platform – it’s a movement founded by a Nigerian-American visionary, private banker, entertainer and serial entrepreneur.
                     BGG ENTERTAINMENT is driven by a mission rooted in faith, creativity,
                     and social impact.</p>
                 <p style="text-align: justify; color: black;">
@@ -86,7 +85,7 @@
     <div class="container">
         <div class="row gy-4 align-items-center features-item">
             <div class="col-md-7" data-aos="fade-up">
-                <h3 style="font-size: 17px; margin-top:-50px; text-align: justify; color:black; line-height: 30px; font-weight:bold">To be a platform where creativity meets purpose, giving voices to untold stories and providing life-changing opportunities for young talents worldwide.</h3>
+                <h3 style="font-size: 17px; margin-top:-50px; text-align: justify; color:black; line-height: 30px;">To be a platform where creativity meets purpose, giving voices to untold stories and providing life-changing opportunities for young talents worldwide.</h3>
                 <p style="text-align: justify; color: black; line-height: 30px;">Our vision extends beyond entertainment — it’s about making a lasting impact worldwide.
                     Through our dedication to faith and community, BGG ENTERTAINMENT strives to bring
                     understanding to the mind of God through His Word and provide a platform for talented

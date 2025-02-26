@@ -54,7 +54,7 @@
                             <i class="bi bi-telephone"></i>
                             <h3 style="color:black"> WhatsApp:</h3>
                             <p style="color:black">Phone/Whatsapp: +234 707 716 8327</p>
-                            <p style="color:black">Whatsapp: +1 (504) 335-5668</p>
+                            <p style="color:black">Whatsapp: +1 504 335 5668</p>
                         </div>
                     </div><!-- End Info Item -->
 
