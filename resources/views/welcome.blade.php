@@ -148,13 +148,13 @@
         <div class="container position-relative">
             <div class="carousel-item active">
                 <div class="container-fluid carousel-container" style="margin-top: 80px;">
-                    <p class="text-center text-uppercase" style="font-size: 23px;"><b>Welcome to BGG&nbsp;ENTERTAINMENT</b></p>
+                    <p class="text-center text-uppercase" style="font-size: 28px;"><b>Welcome to BGG&nbsp;ENTERTAINMENT</b></p>
                     <p class="font-weight-bold text-white text-center" style="font-size: 15px;">
-                        Welcome to By God's Grace Entertainment (BGG ENTERTAINMENT)—where faith, creativity,
+                       <b> Welcome to By God's Grace Entertainment (BGG ENTERTAINMENT)—where faith, creativity,
                         and empowerment come together to uplift talented individuals of African descent.<br>
                         Our mission is to spread the message of Jesus Christ, bridge cultural gaps, and
                         create opportunities for young creatives through content creation, philanthropy,
-                        sports, song, and dance.
+                        sports, song, and dance.</b>
                     </p>
                     <div class="text-center">
                         <a href="#about" class="btn btn-primary">Read More</a>
