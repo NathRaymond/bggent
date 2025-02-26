@@ -30,7 +30,7 @@
             <div class="footer-contact">
                 <p class="mt-3" style="color: white;"><strong style="color: white;">Phone/Whatsapp: </strong> +234 707 716 8327
                     <br>
-                    <strong style="color: white;">Whatsapp:</strong> +1 (504) 335-5668
+                    <strong style="color: white;">Whatsapp:</strong> +1 504 335-5668
                 </p>
                 <p><strong style="color: white;">Email:</strong> <span style="color: white;"> bggentertainment@gmail.com </span></p>
             </div>
