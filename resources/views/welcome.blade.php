@@ -150,11 +150,11 @@
                 <div class="container-fluid carousel-container" style="margin-top: 80px;">
                     <h2 class="text-center text-uppercase" style="font-size: 28px;">Welcome to BGG&nbsp;ENTERTAINMENT</h2>
                     <p class="font-weight-bold text-white text-center">
-                       <b> Welcome to By God's Grace Entertainment (BGG ENTERTAINMENT)—where faith, creativity,
-                        and empowerment come together to uplift talented individuals of African descent.<br>
-                        Our mission is to spread the message of Jesus Christ, bridge cultural gaps, and
-                        create opportunities for young creatives through content creation, philanthropy,
-                        sports, song, and dance.</b>
+                        <b> Welcome to By God's Grace Entertainment (BGG ENTERTAINMENT)—where faith, creativity,
+                            and empowerment come together to uplift talented individuals of African descent.<br>
+                            Our mission is to spread the message of Jesus Christ, bridge cultural gaps, and
+                            create opportunities for young creatives through content creation, philanthropy,
+                            sports, song, and dance.</b>
                     </p>
                     <div class="text-center">
                         <a href="#about" class="btn btn-primary">Read More</a>
@@ -335,22 +335,21 @@
                     <p style="color: black;">&#8226; Inspire the next generation of leaders and changemakers.</p>
                 </div>
                 </p>
-                <p style="font-size: 14.5px; color: black;">
+                <p style="color: black;">
                     To be a platform where creativity meets purpose, giving voices to untold stories and providing life-changing opportunities for young talents worldwide.
-                    <br> We envision a world where creativity, faith, and unity drive meaningful change.
                 </p>
+                <p style="color:black">We envision a world where creativity, faith, and unity drive meaningful change.</p>
             </div>
-            <div class="col-lg-6 position-relative align-self-start" data-aos="fade-up" data-aos-delay="100" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-    <iframe 
-        src="https://www.youtube.com/embed/6nlf1KaaqxI"
-        title="YouTube video player"
-        frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-        allowfullscreen
-        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
-    </iframe>
-</div>
-
+            <div class="col-lg-6 position-relative align-self-start" data-aos="fade-up" data-aos-delay="100" style="position: relative; padding-bottom: 35%; height: 0; overflow: hidden;">
+                <iframe
+                    src="https://www.youtube.com/embed/6nlf1KaaqxI"
+                    title="YouTube video player"
+                    frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    allowfullscreen
+                    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+                </iframe>
+            </div>
         </div>
     </div>
 </section>
