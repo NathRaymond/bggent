@@ -62,7 +62,7 @@
             <h4 style="color: white;">Follow Us</h4>
             <p style="color: white;">Visit Our Social Media Platform.</p>
             <div class="social-links d-flex">
-                <a href="#"><i class="bi bi-twitter-x"></i></a>
+                <!-- <a href="#"><i class="bi bi-twitter-x"></i></a> -->
                 <a href="https://web.facebook.com/profile.php?id=100067873157200&_rdc=1&_rdr#"><i class="bi bi-facebook"></i></a>
                 <a href="https://www.instagram.com/bggentertainment_?igsh=d2h1eWthZXF0aWVk"><i class="bi bi-instagram"></i></a>
                 <a href="#"><i class="bi bi-linkedin"></i></a>

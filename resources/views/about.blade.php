@@ -45,7 +45,7 @@
                 <p style="text-align: justify; color: black;">
                     By God’s Grace Entertainment (BGG ENTERTAINMENT) is more than just an
                     entertainment platform – it’s a movement founded by a Nigerian-American visionary, private banker, entertainer and serial entrepreneur.
-                    BGG ENTERTAINMENT is driven by a purpose rooted in faith, creativity,
+                    BGG ENTERTAINMENT is driven by purpose rooted in faith, creativity,
                     and social impact.</p>
                 <p style="text-align: justify; color: black;">
                     Our goal is to empower and uplift individuals of African descent

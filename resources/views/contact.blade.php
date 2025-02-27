@@ -2,6 +2,9 @@
 
 @section('contents')
 @section("headlinks")
+<!-- Include SweetAlert CSS and JS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css">
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 <style>
     .page-title {
         background: url('assets/img/contact-us.webp') no-repeat center center/cover;
@@ -70,27 +73,27 @@
             </div>
 
             <div class="col-lg-6">
-                <form action="#">
+                <!-- Your form HTML -->
+                <form action="{{ route('send.contact.form') }}" method="POST" onsubmit="showloader6()">
+                    @csrf
                     <div class="row gy-4">
-
                         <div class="col-md-6">
-                            <input type="text" name="name" class="form-control" placeholder="Your Name" required="" style="color:black">
+                            <input type="text" name="name" class="form-control" placeholder="Your Name" required style="color:black">
                         </div>
-
-                        <div class="col-md-6 ">
-                            <input type="email" class="form-control" name="email" placeholder="Your Email" required="" style="color:black">
+                        <div class="col-md-6">
+                            <input type="email" class="form-control" name="email" placeholder="Your Email" required style="color:black">
                         </div>
-
                         <div class="col-md-12">
-                            <input type="text" class="form-control" name="subject" placeholder="Subject" required="" style="color:black">
+                            <input type="text" class="form-control" name="subject" placeholder="Subject" required style="color:black">
                         </div>
-
                         <div class="col-md-12">
-                            <textarea class="form-control" name="message" rows="4" placeholder="Message" required="" style="color:black"></textarea>
+                            <textarea class="form-control" name="message" rows="4" placeholder="Message" required style="color:black"></textarea>
                         </div>
-
                         <div class="col-md-12 text-center">
-                            <button type="submit" style="padding: 7px; border-radius:20px; background-color:#007bff; border:none; color:white;">Send Message</button>
+                            <button type="submit" style="padding: 7px; border-radius:20px; background-color:#007bff; border:none; color:white;">Send Message &nbsp;<span
+                                    class="spinner-border loader spinner-border-sm" id="thisLoader6"
+                                    role="status" aria-hidden="true"
+                                    style="display:none"></span></button>
                         </div>
                     </div>
                 </form>
@@ -98,4 +101,21 @@
         </div>
     </div>
 </section>
+@endsection
+@section("scripts")
+<script>
+    @if(session('success'))
+    Swal.fire({
+        icon: 'success',
+        title: 'Success!',
+        text: "{{ session('success') }}",
+    });
+    @endif
+</script>
+<script>
+    function showloader6() {
+        var loader = document.getElementById('thisLoader6');
+        loader.style.display = "inline-block";
+    }
+</script>
 @endsection

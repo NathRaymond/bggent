@@ -1,4 +1,5 @@
 <?php
+
 use Illuminate\Support\Facades\Artisan;
 use Illuminate\Support\Facades\Route;
 
@@ -13,8 +14,8 @@ Route::group(['prefix' => 'services'], function () {
 });
 Route::group(['prefix' => 'contact'], function () {
     Route::get('/', [App\Http\Controllers\ContactController::class, 'contactFunction'])->name('contact_page');
+    Route::post('/send-contact-form', [App\Http\Controllers\ContactController::class, 'sendContactForm'])->name('send.contact.form');
 });
-
 Route::get('/clear-cache', function () {
     $exitCode = Artisan::call('config:clear');
 
