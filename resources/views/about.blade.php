@@ -4,7 +4,7 @@
 @section("headlinks")
 <style>
     .page-title {
-        background: url('assets/img/about-us3.jpg') no-repeat center center/cover;
+        background: url('assets/img/about-img.jpg') no-repeat center center/cover;
         color: #fff;
         padding: 100px 0;
     }
@@ -29,14 +29,7 @@
 @endsection
 <div class="page-title dark-background">
     <div class="container position-relative">
-        <!-- <h1>Who We Are</h1>
-        <p>Empowering Talent, Spreading Faith, Bridging Cultures.</p> -->
-        <!-- <nav class="breadcrumbs">
-            <ol>
-                <li><a href="/">Home</a></li>
-                <li class="current">About</li>
-            </ol>
-        </nav> -->
+        <h1>About Us</h1>
     </div>
 </div>
 
@@ -48,11 +41,11 @@
                 <!-- <a href="" class="pulsating-play-btn"></a> -->
             </div>
             <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="200">
-                <h3 style="text-align: center; font-size: 15px; color: black;">VERITAS . BONAVENTURE . SANDOVAL</h3>
+                <h3 style="text-align: center; font-size: 15px; color: black;">V&nbsp;E&nbsp;R&nbsp;I&nbsp;T&nbsp;A&nbsp;S&nbsp;&nbsp; .&nbsp;&nbsp; B&nbsp;O&nbsp;N&nbsp;A&nbsp;V&nbsp;E&nbsp;N&nbsp;T&nbsp;U&nbsp;R&nbsp;E &nbsp;&nbsp;.&nbsp; &nbsp;S&nbsp;A&nbsp;N&nbsp;D&nbsp;O&nbsp;V&nbsp;A&nbsp;L</h3>
                 <p style="text-align: justify; color: black;">
                     By God’s Grace Entertainment (BGG ENTERTAINMENT) is more than just an
                     entertainment platform – it’s a movement founded by a Nigerian-American visionary, private banker, entertainer and serial entrepreneur.
-                    BGG ENTERTAINMENT is driven by a mission rooted in faith, creativity,
+                    BGG ENTERTAINMENT is driven by a purpose rooted in faith, creativity,
                     and social impact.</p>
                 <p style="text-align: justify; color: black;">
                     Our goal is to empower and uplift individuals of African descent
@@ -80,7 +73,7 @@
 
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
-        <h2 style="font-size: 20px; margin-top:-20px;color: black;">OUR VISION</h2>
+        <h2 style="font-size: 20px; margin-top:-20px;color: black;">OUR MISSION</h2>
     </div>
     <div class="container">
         <div class="row gy-4 align-items-center features-item">

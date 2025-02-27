@@ -3,142 +3,142 @@
 @section("headlinks")
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css">
 <style>
-.swiper-container {
-    width: 100%;
-    padding: 10px;
-}
-
-.swiper-slide {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.fixed-size-img {
-    width: 200px;
-    height: 200px;
-    border-radius: 8px;
-    object-fit: cover;
-}
-
-@media (max-width: 768px) {
-    .fixed-size-img {
-        width: 150px;
-        height: 150px;
+    .swiper-container {
+        width: 100%;
+        padding: 10px;
     }
-}
 
-@media (max-width: 480px) {
-    .fixed-size-img {
-        width: 100px;
-        height: 100px;
-    }
-}
-
-.swiper-button-next:hover,
-.swiper-button-prev:hover {
-    background: rgba(0, 0, 0, 0.8);
-}
-
-
-/* Sponsor Section Styling */
-.sponsor-section {
-    text-align: center;
-    padding: 40px 0;
-    background-color: #f9f9f9;
-}
-
-.sponsor-title {
-    font-size: 24px;
-    font-weight: bold;
-    margin-bottom: 20px;
-    color: #333;
-}
-
-.sponsor-logos {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 20px;
-}
-
-.sponsor-logos img {
-    width: 120px;
-    /* Set fixed width */
-    height: 60px;
-    /* Set fixed height */
-    object-fit: contain;
-    /* Keeps logos properly scaled */
-    /* transition: filter 0.3s ease-in-out; */
-}
-
-/* Responsive */
-@media (max-width: 768px) {
-    .sponsor-logos {
+    .swiper-slide {
+        display: flex;
         justify-content: center;
+        align-items: center;
+    }
+
+    .fixed-size-img {
+        width: 200px;
+        height: 200px;
+        border-radius: 8px;
+        object-fit: cover;
+    }
+
+    @media (max-width: 768px) {
+        .fixed-size-img {
+            width: 150px;
+            height: 150px;
+        }
+    }
+
+    @media (max-width: 480px) {
+        .fixed-size-img {
+            width: 100px;
+            height: 100px;
+        }
+    }
+
+    .swiper-button-next:hover,
+    .swiper-button-prev:hover {
+        background: rgba(0, 0, 0, 0.8);
+    }
+
+
+    /* Sponsor Section Styling */
+    .sponsor-section {
+        text-align: center;
+        padding: 40px 0;
+        background-color: #f9f9f9;
+    }
+
+    .sponsor-title {
+        font-size: 24px;
+        font-weight: bold;
+        margin-bottom: 20px;
+        color: #333;
+    }
+
+    .sponsor-logos {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 20px;
     }
 
     .sponsor-logos img {
-        width: 100px;
-        height: 50px;
+        width: 120px;
+        /* Set fixed width */
+        height: 60px;
+        /* Set fixed height */
+        object-fit: contain;
+        /* Keeps logos properly scaled */
+        /* transition: filter 0.3s ease-in-out; */
     }
-}
 
-.pulsating2-play-btn {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 80px;
-    height: 80px;
-    background: rgba(255, 0, 0, 0.7);
-    /* Red semi-transparent background */
-    border-radius: 50%;
-    color: #fff;
-    /* Icon color */
-    font-size: 24px;
-    text-align: center;
-    transition: all 0.3s ease-in-out;
-}
+    /* Responsive */
+    @media (max-width: 768px) {
+        .sponsor-logos {
+            justify-content: center;
+        }
 
-.pulsating2-play-btn:hover {
-    background: rgba(255, 0, 0, 1);
-}
+        .sponsor-logos img {
+            width: 100px;
+            height: 50px;
+        }
+    }
 
-.pulsating2-play-btn i {
-    position: relative;
-}
+    .pulsating2-play-btn {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 80px;
+        height: 80px;
+        background: rgba(255, 0, 0, 0.7);
+        /* Red semi-transparent background */
+        border-radius: 50%;
+        color: #fff;
+        /* Icon color */
+        font-size: 24px;
+        text-align: center;
+        transition: all 0.3s ease-in-out;
+    }
 
-.gallery-item img {
-    width: 100%;
-    /* Ensures images take full column width */
-    height: 250px;
-    /* Sets a fixed height for all images */
-    object-fit: cover;
-    /* Ensures images maintain aspect ratio without distortion */
-    border-radius: 10px;
-    /* Optional: Adds rounded corners */
-}
+    .pulsating2-play-btn:hover {
+        background: rgba(255, 0, 0, 1);
+    }
 
-.gallery-item p {
-    font-size: 14px;
-    /* Makes text readable but compact */
-    margin-top: 10px;
-}
+    .pulsating2-play-btn i {
+        position: relative;
+    }
 
-:root {
-    --swiper-theme-color: transparent !important;
-}
+    .gallery-item img {
+        width: 100%;
+        /* Ensures images take full column width */
+        height: 250px;
+        /* Sets a fixed height for all images */
+        object-fit: cover;
+        /* Ensures images maintain aspect ratio without distortion */
+        border-radius: 10px;
+        /* Optional: Adds rounded corners */
+    }
 
-.bulletin p {
-    margin: 0 0 10px;
-    font-size: 16px;
-    line-height: 1.5;
-}
+    .gallery-item p {
+        font-size: 14px;
+        /* Makes text readable but compact */
+        margin-top: 10px;
+    }
+
+    :root {
+        --swiper-theme-color: transparent !important;
+    }
+
+    .bulletin p {
+        margin: 0 0 10px;
+        font-size: 16px;
+        line-height: 1.5;
+    }
 </style>
 
 @endsection
@@ -340,7 +340,7 @@
             <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="200">
                 <h3 style="text-align: center; font-size: 20px; color: black;">OUR VISION</h3>
                 <p style="text-align: justify; color: black;">
-                    Our vision is to become a globally recognized platform that unites and empowers diverse communities
+                    Our vision is to become the most globally recognized platform that unites and empowers diverse communities
                     through faith, creativity, and social impact. We aspire to:
                 </p>
                 <p>
@@ -500,42 +500,42 @@
 @section("scripts")
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 <script>
-var swiper = new Swiper('.swiper-container', {
-    slidesPerView: 4, // 4 images in a row
-    spaceBetween: 20,
-    loop: true,
-    navigation: {
-        nextEl: '.swiper-button-next',
-        prevEl: '.swiper-button-prev',
-    },
-    autoplay: {
-        delay: 3000,
-        disableOnInteraction: false,
-    },
-    grabCursor: true, // Enables hand cursor on hover
-    mousewheel: true, // Enables scrolling with mouse
-    breakpoints: {
-        1024: {
-            slidesPerView: 4
-        }, // Desktop
-        768: {
-            slidesPerView: 2
-        }, // Tablet
-        480: {
-            slidesPerView: 1
-        } // Mobile
-    }
-});
+    var swiper = new Swiper('.swiper-container', {
+        slidesPerView: 4, // 4 images in a row
+        spaceBetween: 20,
+        loop: true,
+        navigation: {
+            nextEl: '.swiper-button-next',
+            prevEl: '.swiper-button-prev',
+        },
+        autoplay: {
+            delay: 3000,
+            disableOnInteraction: false,
+        },
+        grabCursor: true, // Enables hand cursor on hover
+        mousewheel: true, // Enables scrolling with mouse
+        breakpoints: {
+            1024: {
+                slidesPerView: 4
+            }, // Desktop
+            768: {
+                slidesPerView: 2
+            }, // Tablet
+            480: {
+                slidesPerView: 1
+            } // Mobile
+        }
+    });
 </script>
 <script>
-document.addEventListener("DOMContentLoaded", function() {
-    const lightbox = GLightbox({
-        selector: '.glightbox', // Select all elements with class 'glightbox'
-        touchNavigation: true,
-        loop: true,
-        autoplayVideos: true
+    document.addEventListener("DOMContentLoaded", function() {
+        const lightbox = GLightbox({
+            selector: '.glightbox', // Select all elements with class 'glightbox'
+            touchNavigation: true,
+            loop: true,
+            autoplayVideos: true
+        });
     });
-});
 </script>
 
 @endsection
