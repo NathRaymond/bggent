@@ -38,7 +38,7 @@
         <div class="row justify-content-center">
             <div class="col-md-8 text-center">
                 <p style="font-size: 17px; color:white; font-weight: bold;">
-                    Contact us if you need to hire talent, collaborate, partner or have need of our creative solutions. Our Team is ready to assist you.</p>
+                    Contact us if you need to hire talent, collaborate, partner or have need of our creative solutions. <br>Our Team is ready to assist you.</p>
             </div>
         </div>
     </div>

@@ -340,7 +340,7 @@
             <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="200">
                 <h3 style="text-align: center; font-size: 20px; color: black;">OUR VISION</h3>
                 <p style="text-align: justify; color: black;">
-                    Our vision is to become the most globally recognized platform that unites and empowers diverse communities
+                    Our vision is to be the most globally recognized platform that unites and empowers diverse communities
                     through faith, creativity, and social impact. We aspire to:
                 </p>
                 <p>
