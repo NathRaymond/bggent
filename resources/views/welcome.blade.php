@@ -393,7 +393,7 @@
                     <p style="text-align: justify;">
                         &#8226; Minimum requirement: High school transcript (University transcripts are also accepted).
                         <br>&#8226; Open to individuals up to 18 - 35 years old.
-                        <br>&#8226; If you need tuition or support to return to university, you are encouraged to apply.
+                        <br>&#8226; If you need tuition or support to return to University, you are encouraged to apply.
                     </p>
                 </div>
             </div>
